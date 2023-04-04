@@ -1,4 +1,4 @@
-package hill_climb_algorithm;
+package Algorithms;
 
 import java.util.ArrayList;
 import java.util.Collections;

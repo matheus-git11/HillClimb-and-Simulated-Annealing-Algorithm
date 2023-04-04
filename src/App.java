@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import hill_climb_algorithm.HillClimbingTSP;
-import hill_climb_algorithm.SimulatedAnnealingTSP;
+import Algorithms.HillClimbingTSP;
+import Algorithms.SimulatedAnnealingTSP;
 
 public class App {
     public static void main(String[] args) throws Exception {
